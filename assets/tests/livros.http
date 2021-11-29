@@ -1,1 +1,9 @@
-GET https://8080-kumquat-rodent-7yugkk0w.ws-us17.gitpod.io/filmes
+GET https://8080-cyan-dog-mwucihzk.ws-us17.gitpod.io/filmes
+
+###
+POST https://8080-cyan-dog-mwucihzk.ws-us17.gitpod.io/filmes
+Content-Type: application/json
+
+{
+    "titulo": "Exemplo"
+}
